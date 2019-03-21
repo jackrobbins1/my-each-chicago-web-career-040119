@@ -2,7 +2,7 @@ def my_each(arr)
   n = 0
 
   while n < arr.length
-    arr[n]
+    yield
     n = n + 1
   end
   arr
