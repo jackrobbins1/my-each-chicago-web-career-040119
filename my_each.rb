@@ -4,4 +4,5 @@ def my_each(arr)
     arr[x]
     x += 1
   end
+  arr
 end
