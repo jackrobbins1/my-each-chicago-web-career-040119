@@ -3,7 +3,7 @@ def my_each(arr)
 
   while n < arr.length
     arr[n]
-    n += 1
+    n = n + 1
   end
   arr
 end
