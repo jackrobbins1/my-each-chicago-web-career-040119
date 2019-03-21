@@ -8,3 +8,5 @@ def my_each(arr)
   end
   arr
 end
+
+my_each([1, 3, 5, 6])
