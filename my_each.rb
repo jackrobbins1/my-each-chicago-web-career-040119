@@ -8,4 +8,4 @@ def my_each(arr)
   arr
 end
 
-my_each([1, 3, 5, 6])
+#my_each([1, 3, 5, 6])
