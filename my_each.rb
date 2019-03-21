@@ -3,7 +3,6 @@ def my_each(arr)
   v = arr.length
   while x < v
     arr[x]
-    puts arr[x]
     x += 1
   end
   arr
