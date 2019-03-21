@@ -1,6 +1,7 @@
 def my_each(arr)
   x = 0
-  while x < arr.length
+  v = arr.length
+  while x < v
     arr[x]
     x += 1
   end
